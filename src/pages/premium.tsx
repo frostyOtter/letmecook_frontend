@@ -86,8 +86,8 @@ export default function PremiumPage() {
         <Card className="w-full ">
           <CardBody className="flex flex-col items-center">
             <Image
-              src="https://i.ibb.co/DDCNfNY/448027261-122097007304360225-3650533236504856865-n.jpg"
-              alt="Sample Image 2"
+              src="https://iili.io/doz6OQt.jpg"
+              alt="premium-main-banner"
               width={1200}
               height={600}
               isZoomed
@@ -108,7 +108,7 @@ export default function PremiumPage() {
               <div className="flex flex-col items-center gap-4 mt-4">
                 <p>Chuyển tiền kèm nội dung theo cú pháp: {user?.email}</p>
                 <Image
-                  src="https://i.ibb.co/6Y8pmY3/momo.png"
+                  src="https://iili.io/doxMI6u.png"
                   alt="Momo Image"
                   width={200}
                   height={200}
@@ -124,8 +124,8 @@ export default function PremiumPage() {
       <div className="grid grid-cols-2 p-10">
         <span>
           <Image
-            src="https://i.ibb.co/2yXw527/premium-why.jpg"
-            alt="Image"
+            src="https://iili.io/doxbLzv.jpg"
+            alt="Premium-why"
             width={500}
             height={500}
             isZoomed
